@@ -27,6 +27,7 @@ wheels/
 # Data (Ignore large files, but keeping folders structure is fine if .gitkeep used, but user asked for folders)
 data/raw/*.csv
 data/processed/*.csv
+data/processed/*.pkl
 # Assuming we want to track the folder structure but not the data itself.
 
 # Models
