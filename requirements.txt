@@ -6,3 +6,7 @@ matplotlib
 jupyter
 joblib
 statsmodels
+kmodes
+xgboost
+imbalanced-learn
+optuna
