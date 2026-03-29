@@ -100,10 +100,3 @@ pip install -r diabetes-risk-analysis/requirements.txt
 - Identification of distinct patient segments for targeted interventions
 - Non-linear relationships justify ensemble methods over simple linear models
 
-## Author
-
-FAIDM Individual Project - University of Warwick
-
-## License
-
-Academic project for educational purposes.
