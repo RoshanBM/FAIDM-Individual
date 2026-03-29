@@ -1,6 +1,6 @@
-# Diabetes Risk Analysis - FAIDM Individual Project
+# Diabetes Risk Analysis
 
-## Roshan Balaji Mahashabde (u5735905)
+## Roshan Balaji Mahashabde
 ---
 ## Project Overview
 
